@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0DiegoM
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, js
+- 🌱 I’m currently learning Python
 - 📫 How to reach me diegomadera1611@gmail.com / DiegoM#2468 in discord.
 
 <!---
